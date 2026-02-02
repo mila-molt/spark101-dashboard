@@ -1,4 +1,4 @@
-import { currentUser } from '@clerk/nextjs/server'
+import { currentUser } from '@clerk/nextjs'
 import { redirect } from 'next/navigation'
 import { UserButton } from '@clerk/nextjs'
 
