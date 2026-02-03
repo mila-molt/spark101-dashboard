@@ -12,7 +12,7 @@ Dashboard para visualizar conversaciones de bots de clientes.
 | Rol | Acceso |
 |-----|--------|
 | **Admin** (camivelasco@gmail.com) | Todos los clientes y bots |
-| **Cliente** (ej: Juan) | Solo sus conversaciones |
+
 
 ## Features
 - ✅ Login con Google (Clerk)
@@ -22,8 +22,6 @@ Dashboard para visualizar conversaciones de bots de clientes.
 - ✅ Contador de tokens consumidos
 - ✅ Métricas básicas
 
-## Clientes Activos
-1. **Juan Gozio** - Tech Tackle (@Consultor_Pesca_Bot)
 
 ## Setup Local
 
